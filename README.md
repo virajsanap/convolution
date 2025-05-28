@@ -16,22 +16,6 @@ It’s a compact, educational notebook for anyone looking to understand the **fu
 
 ---
 
-## 🖼️ Example Results
-
-### 🔹 Edge Detection (Sobel Filter)
-| Original Image | After Sobel (Vertical) |
-|----------------|------------------------|
-| ![orig](assets/original.jpg) | ![sobel](assets/sobel_vertical.jpg) |
-
-### 🔹 Sharpening
-| Input | Sharpened |
-|-------|-----------|
-| ![orig](assets/original.jpg) | ![sharpen](assets/sharpened.jpg) |
-
-> You can add your own output images in a folder named `assets/` and reference them here.
-
----
-
 ## 🧪 Supported Kernels
 
 | Operation        | Kernel Matrix Example |
