@@ -1,4 +1,4 @@
-# 🧠 Image Convolution from Scratch
+# Image Convolution from Scratch
 
 This project demonstrates how to manually implement 2D convolution operations on grayscale and RGB images using **NumPy**, without relying on deep learning or computer vision libraries like OpenCV or PyTorch.
 
@@ -6,7 +6,7 @@ It’s a compact, educational notebook for anyone looking to understand the **fu
 
 ---
 
-## 📌 What You'll Learn
+## What You'll Learn
 
 - How 2D convolution works (from scratch using NumPy)
 - The role of different kernels: sharpening, edge detection, blurring, etc.
@@ -16,7 +16,7 @@ It’s a compact, educational notebook for anyone looking to understand the **fu
 
 ---
 
-## 🧪 Supported Kernels
+## Supported Kernels
 
 | Operation        | Kernel Matrix Example |
 |------------------|------------------------|
@@ -29,7 +29,7 @@ It’s a compact, educational notebook for anyone looking to understand the **fu
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone or download the repo
 2. Install dependencies (standard NumPy, PIL, matplotlib)
